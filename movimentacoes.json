@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "codigoProduto": 101,
+    "tipo": "Entrada",
+    "quantidade": 10,
+    "descricao": "Compra de fornecedor"
+  }
+]
